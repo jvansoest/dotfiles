@@ -1,0 +1,7 @@
+;;; loading Babel
+(load "/Users/jeroenvansoest/ehai-babel/libraries/asdf")
+(load "/Users/jeroenvansoest/ehai-babel/init-babel")
+
+;;; loading quicklisp
+(load "~/quicklisp/setup.lisp")
+
